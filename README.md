@@ -29,7 +29,7 @@ The performance of the model is exemplary, exhibiting high accuracy in disease c
 |--------------|-----------------------|
 | Loss         | 0.07676056027412415   |
 | Accuracy     | 97.44779467582703%    |
-| App Accuracy | 99.609375%            |
+
 
 The above metrics underscore the model's capability to deliver reliable and impactful insights for the management of potato crops.
 
@@ -49,7 +49,6 @@ The architecture of the CNN model is sequential, designed for optimal image data
 | MaxPooling2D       | (None, 14, 14, 64)     | 0       |
 | Conv2D (64 filters)| (None, 12, 12, 64)     | 36,928  |
 | MaxPooling2D       | (None, 6, 6, 64)       | 0       |
-| ...                | ...                    | ...     |
 | **Total params**   |                        | 183,747 |
 | **Trainable params**|                       | 183,747 |
 | **Non-trainable params** |                  | 0       |
