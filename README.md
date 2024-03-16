@@ -1,4 +1,4 @@
-# Potato Disease Classification Project
+# Precision Disease Diagnosis for Potatoes
 
 ## Description
 
